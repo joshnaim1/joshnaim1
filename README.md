@@ -1,16 +1,80 @@
-## Hi there 👋
+<!-- Header -->
+<hi! align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Joshua+Naim+%F0%9F%91%8B;Computer+Engineer+%40+Cal+Poly+SLO;Builder+%7C+Tinkerer+%7C+Swimmer" alt="Typing SVG" />
+</h1>
 
-<!--
-**joshnaim1/joshnaim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://linkedin.com/in/joshua-naim-593b04292"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:josh05naim@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## `$ whoami`
+
+```yaml
+name: Joshua Naim
+role: Computer Engineering Student @ Cal Poly SLO
+focus: [AI/ML Systems, Embedded Systems, Full-Stack, Cloud]
+gpa: 3.80 / 4.00
+dean's_list: [Fall, Winter, Spring 2024-2025]
+languages: [English, Mandarin]
+interests: [Swimming, Perfumery, Pokémon Cards, Roguelikes]
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 [cwx-multimodal-OCR](https://github.com/josh05naim/cwx-multimodal-OCR)
+Production document Q&A system built during my internship at CloudWerx.
+- Multi-agent architecture with Vision / OCR / Layout specialists via Google ADK
+- **96% accuracy** on DocVQA & InfographicVQA benchmarks (100-sample eval)
+- Deployed hybrid OCR (Document AI + DeepSeek fallback) to Cloud Run via Terraform
+- `Python` `Vertex AI` `Gemini 2.5 Flash` `GCP` `Docker` `REST API`
+
+### 👃 [Digital Nose — Scent Classifier](https://github.com/josh05naim/digital-nose)
+End-to-end ML pipeline to classify VOC sensor data for cologne/perfume detection.
+- Synthetic Bosch BME688 sensor feature generation + SVM classifier
+- **~94% test-set accuracy**, k-fold cross-validated with confusion matrix analysis
+- `Python` `scikit-learn` `Pandas` `Matplotlib`
+
+### 🤖 [Pseudocode LLM (CS+AI Club)](https://github.com/josh05naim/pseudocode-llm)
+Natural language → pseudocode converter using locally-hosted LLMs.
+- Curated and validated training datasets; evaluated output quality
+- `Python` `Gemini` `DeepSeek` `HuggingFace`
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,c,js,gcp,docker,git,vscode,linux,tensorflow&theme=dark" />
+  </a>
+</p>
+
+**Also working with:** Vertex AI · Google ADK · Terraform · REST APIs · SystemVerilog · RISC-V Assembly · LTspice · HuggingFace
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🔭 What I'm Working On
+
+- 🌐 Exploring **agentic AI systems** and multi-modal pipelines
+- 🔧 Deepening knowledge of **embedded systems** and hardware-software co-design
+- 🏊 Competing nationally for **Cal Poly Swim Club**
+
+---
+
+<p align="center">
+  <i>"Build things that actually work."</i>
+</p>

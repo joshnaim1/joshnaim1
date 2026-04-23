@@ -39,7 +39,7 @@ End-to-end ML pipeline to classify VOC sensor data for cologne/perfume detection
 - **~94% test-set accuracy**, k-fold cross-validated with confusion matrix analysis
 - `Python` `scikit-learn` `Pandas` `Matplotlib`
 
-### 🤖 [Pseudocode LLM (CS+AI Club)](https://github.com/josh05naim/pseudocode-llm)
+### 🤖 [Pseudocode LLM (CS+AI Club)](https://csai.notion.site/Pseudocode-LLM-Project-Info-Page-618bb03b633c4913b27def751a5e93ad)
 Natural language → pseudocode converter using locally-hosted LLMs.
 - Curated and validated training datasets; evaluated output quality
 - `Python` `Gemini` `DeepSeek` `HuggingFace`

@@ -1,7 +1,7 @@
 <!-- Header -->
-<hi! align="center">
+<hi align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Joshua+Naim+%F0%9F%91%8B;Computer+Engineer+%40+Cal+Poly+SLO;Builder+%7C+Tinkerer+%7C+Swimmer" alt="Typing SVG" />
-</h1>
+</hi>
 
 <p align="center">
   <a href="https://linkedin.com/in/joshua-naim-593b04292"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -60,10 +60,8 @@ Natural language → pseudocode converter using locally-hosted LLMs.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="160"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=joshnaim1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshnaim1&layout=compact&theme=github_dark&hide_border=true" height="160"/>
 
 ---
 

@@ -16,8 +16,6 @@
 name: Joshua Naim
 role: Computer Engineering Student @ Cal Poly SLO
 focus: [AI/ML Systems, Embedded Systems, Full-Stack, Cloud]
-gpa: 3.60 / 4.00
-dean's_list: [Fall, Winter, Spring 2024-2025]
 languages: [English, Mandarin]
 interests: [Swimming, Pickleball, Perfumery, Pokémon Cards, Roguelikes]
 ```

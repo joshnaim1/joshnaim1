@@ -26,14 +26,7 @@ interests: [Swimming, Perfumery, Pokémon Cards, Roguelikes]
 
 ## 🚀 Featured Projects
 
-### 🧠 [cwx-multimodal-OCR](https://github.com/josh05naim/cwx-multimodal-OCR)
-Production document Q&A system built during my internship at CloudWerx.
-- Multi-agent architecture with Vision / OCR / Layout specialists via Google ADK
-- **96% accuracy** on DocVQA & InfographicVQA benchmarks (100-sample eval)
-- Deployed hybrid OCR (Document AI + DeepSeek fallback) to Cloud Run via Terraform
-- `Python` `Vertex AI` `Gemini 2.5 Flash` `GCP` `Docker` `REST API`
-
-### 👃 [Digital Nose — Scent Classifier](https://github.com/josh05naim/digital-nose)
+### 👃 [Digital Nose — Scent Classifier](https://github.com/joshnaim1/Digital-Nose)
 End-to-end ML pipeline to classify VOC sensor data for cologne/perfume detection.
 - Synthetic Bosch BME688 sensor feature generation + SVM classifier
 - **~94% test-set accuracy**, k-fold cross-validated with confusion matrix analysis

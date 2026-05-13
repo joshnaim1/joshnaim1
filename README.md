@@ -24,16 +24,18 @@ interests: [Swimming, Pickleball, Perfumery, Pokémon Cards, Roguelikes]
 
 ## 🚀 Featured Projects
 
+### ⭐️ [Claro - Kiro Hacks x Cal Poly Hackathon](https://github.com/joshnaim1/Claro)
+Document Accessibility for Students with Disabilities
+- Built for the Kiro x Cal Poly Hackathon | Track 4: Human-Centered Design
+- Upload any inaccessible document (PDF, pasted text, or URL), select your disability profile, and receive an instantly transformed accessible version
+- Four specialized AI agents handle ingestion, diagnosis, transformation, and profile management, all powered by Amazon Bedrock (Claude Sonnet 4)
+- `Python` `AWS` `Bedrock` `Kiro` `JavaScript`
+
 ### 👃 [Digital Nose — Scent Classifier](https://github.com/joshnaim1/Digital-Nose)
 End-to-end ML pipeline to classify VOC sensor data for cologne/perfume detection.
 - Synthetic Bosch BME688 sensor feature generation + SVM classifier
 - **~94% test-set accuracy**, k-fold cross-validated with confusion matrix analysis
 - `Python` `scikit-learn` `Pandas` `Matplotlib`
-
-### 🤖 [Pseudocode LLM (CS+AI Club)](https://csai.notion.site/Pseudocode-LLM-Project-Info-Page-618bb03b633c4913b27def751a5e93ad)
-Natural language → pseudocode converter using locally-hosted LLMs.
-- Curated and validated training datasets; evaluated output quality
-- `Python` `Gemini` `DeepSeek` `HuggingFace`
 
 ---
 

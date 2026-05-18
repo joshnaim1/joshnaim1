@@ -24,18 +24,18 @@ interests: [Swimming, Pickleball, Perfumery, Pokémon Cards, Roguelikes]
 
 ## 🚀 Featured Projects
 
+### ⚖️ [ReBalance — Stroke Rehab Balance Board](https://github.com/joshnaim1/rebalance)
+🏆 **Hackathon Winner** @ oSTEM × CPES Hackathon, Cal Poly · Spring 2026 — pressure-sensitive balance board + React dashboard that turns stroke rehabilitation into an objective, gamified experience.
+- Arduino UNO + 4× FSR sensors → real-time L/R weight distribution via Web Serial API, **~$74 in parts**
+- Therapeutic balance games, session tracking, and AI-generated clinical notes (Gemini 2.5 Flash) — **no cloud, no backend, no bias**
+- `React` `Vite` `Tailwind CSS` `Arduino` `Web Serial API` `Gemini 2.5`
+
 ### ⭐️ [Claro - Kiro Hacks x Cal Poly Hackathon](https://github.com/joshnaim1/Claro)
 Document Accessibility for Students with Disabilities
 - Built for the Kiro x Cal Poly Hackathon | Track 4: Human-Centered Design
 - Upload any inaccessible document (PDF, pasted text, or URL), select your disability profile, and receive an instantly transformed accessible version
 - Four specialized AI agents handle ingestion, diagnosis, transformation, and profile management, all powered by Amazon Bedrock (Claude Sonnet 4)
 - `Python` `AWS` `Bedrock` `Kiro` `JavaScript`
-
-### 👃 [Digital Nose — Scent Classifier](https://github.com/joshnaim1/Digital-Nose)
-End-to-end ML pipeline to classify VOC sensor data for cologne/perfume detection.
-- Synthetic Bosch BME688 sensor feature generation + SVM classifier
-- **~94% test-set accuracy**, k-fold cross-validated with confusion matrix analysis
-- `Python` `scikit-learn` `Pandas` `Matplotlib`
 
 ---
 
